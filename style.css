@@ -1,0 +1,16 @@
+/* .container-fluid {
+    background-color: cornflowerblue;
+    height: 500px;
+} */
+
+.bg-primary {
+    font: 4em "Arial Black";
+}
+
+.bg-success {
+    font: 3.5em "Arial Black";
+}
+
+.bg-danger {
+    font: 3em "Brush Script MT";
+}
